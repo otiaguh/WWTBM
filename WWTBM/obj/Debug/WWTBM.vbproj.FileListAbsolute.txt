@@ -1,0 +1,21 @@
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\WWTBM.vbproj.AssemblyReference.cache
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\WWTBM.vbproj.SuggestedBindingRedirects.cache
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\WWTBM.vbproj.GenerateResource.cache
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\WWTBM.vbproj.CoreCompileInputs.cache
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\bin\Debug\Interop.WMPLib.dll
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\bin\Debug\AxInterop.WMPLib.dll
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\Interop.WMPLib.dll
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\AxInterop.WMPLib.dll
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\WWTBM.vbproj.ResolveComReference.cache
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\QQSUM.FrmMainMenu.resources
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\QQSUM.Resources.resources
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\bin\Debug\Quem Quer Ser Um Milionário.exe.config
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\bin\Debug\Quem Quer Ser Um Milionário.exe
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\bin\Debug\Quem Quer Ser Um Milionário.pdb
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\bin\Debug\Quem Quer Ser Um Milionário.xml
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\Quem Quer Ser Um Milionário.exe
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\Quem Quer Ser Um Milionário.xml
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\Quem Quer Ser Um Milionário.pdb
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\QQSUM.FrmGame.resources
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\QQSUM.FrmInfobox.resources
+M:\Visual Studio 2022\Projects\WWTBM\WWTBM\obj\Debug\QQSUM.FrmVictory.resources

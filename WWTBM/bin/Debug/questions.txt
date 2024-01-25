@@ -1,0 +1,100 @@
+Quem venceu a Copa do Mundo de 2014?;Argentina;Brasil;Alemanha;Espanha;C
+Qual clube ganhou a Liga dos Campeões da UEFA na temporada 2020-2021?;Manchester United;Real Madrid;Chelsea;Barcelona;C
+Quem foi o artilheiro da Copa do Mundo de 2018?;Lionel Messi;Cristiano Ronaldo;Antoine Griezmann;Harry Kane;D
+Qual é o nome completo do jogador brasileiro conhecido como Neymar?;Neymar da Silva Santos Júnior;Neymar Silva;Neymar Santos;Neymar Júnior;A
+Quem ganhou o prêmio de melhor jogador do mundo da FIFA em 2020?;Lionel Messi;Cristiano Ronaldo;Robert Lewandowski;Kevin De Bruyne;C
+Qual clube foi o campeão da Premier League na temporada 2019-2020?;Liverpool;Chelsea;Manchester City;Arsenal;A
+Quem é conhecido como "Rei" do futebol?;Diego Maradona;Pelé;Zinedine Zidane;Ronaldinho Gaúcho;B
+Qual é a seleção nacional com mais títulos da Copa do Mundo?;Argentina;Brasil;Itália;Alemanha;B
+Em que país nasceu o jogador Lionel Messi?;Argentina;Brasil;Espanha;Portugal;A
+Qual é o nome do estádio do Barcelona?;Camp Nou;Santiago Bernabéu;Anfield;Old Trafford;A
+Qual jogador marcou o gol mais rápido na história da Copa do Mundo?;Clint Dempsey;Hakan Şükür;Diego Costa;Christian Benteke;B
+Quem é o técnico da seleção brasileira de futebol?;Tite;Pep Guardiola;Jurgen Klopp;Diego Simeone;A
+Qual foi o país-sede da Copa do Mundo de 2010?;Alemanha;África do Sul;França;Rússia;B
+Quem é o maior artilheiro da história da seleção argentina?;Diego Maradona;Lionel Messi;Gabriel Batistuta;Hernán Crespo;B
+Qual jogador é conhecido como "Fenômeno"?;Ronaldo Nazário;Ronaldinho Gaúcho;Rivaldo;Romário;A
+Qual clube conquistou a Copa Libertadores da América em 2021?;Boca Juniors;River Plate;Palmeiras;Flamengo;C
+Qual é o nome do estádio do Manchester United?;Stamford Bridge;Etihad Stadium;Old Trafford;Anfield;C
+Quem venceu a Bola de Ouro de 2019?;Lionel Messi;Cristiano Ronaldo;Virgil van Dijk;Robert Lewandowski;A
+Qual jogador é conhecido como "Guerreiro"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Radamel Falcao;B
+Qual país sediou a Copa do Mundo de 1998?;Inglaterra;Itália;França;Espanha;C
+Qual clube ganhou a Liga dos Campeões da UEFA na temporada 2012-2013?;Barcelona;Bayern de Munique;Real Madrid;Chelsea;B
+Quem foi o artilheiro da Copa do Mundo de 2006?;Zinedine Zidane;Ronaldo Nazário;Thierry Henry;Miroslav Klose;D
+Qual é o nome completo do jogador português Cristiano Ronaldo?;Cristiano Ronaldo dos Santos;Cristiano Ronaldo dos Santos Aveiro;Cristiano Ronaldo de Souza;Cristiano Ronaldo Oliveira;B
+Quem venceu a Bola de Ouro de 2021?;Lionel Messi;Cristiano Ronaldo;Karim Benzema;Mohamed Salah;A
+Qual jogador é conhecido como "Kun"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Radamel Falcao;C
+Qual clube foi o campeão da Serie A italiana na temporada 2020-2021?;Napoli;Inter de Milão;AC Milan;Juventus;B
+Quem é conhecido como "El Pibe"?;Lionel Messi;Diego Maradona;Gabriel Batistuta;Javier Zanetti;B
+Qual é a seleção nacional com mais participações em Copas do Mundo?;Brasil;Itália;Argentina;Alemanha;A
+Em que país nasceu o jogador Cristiano Ronaldo?;Portugal;Espanha;Itália;Brasil;A
+Qual é o nome do estádio do Real Madrid?;Camp Nou;Santiago Bernabéu;Anfield;Old Trafford;B
+Quem marcou o gol mais rápido na história da Premier League inglesa?;Shane Long;Alan Shearer;Thierry Henry;Harry Kane;A
+Quem é o técnico da seleção argentina de futebol?;Lionel Messi;Diego Simeone;Tite;Luis Enrique;A
+Qual foi o país-sede da Copa do Mundo de 2002?;Alemanha;África do Sul;Coreia do Sul e Japão;Rússia;C
+Quem é o maior artilheiro da história da seleção brasileira?;Pelé;Zico;Romário;Neymar;A
+Qual jogador é conhecido como "Bruxo"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Lionel Messi;D
+Qual foi o primeiro país a sediar duas vezes consecutivas a Copa do Mundo?;Alemanha;Brasil;Itália;França;B
+Quem venceu a Copa América de 2021?;Argentina;Brasil;Uruguai;Colômbia;A
+Qual é o nome do estádio do Boca Juniors?;La Bombonera;Estádio Monumental;Allianz Parque;Estádio Nacional;A
+Quem ganhou a Bola de Ouro de 2018?;Lionel Messi;Cristiano Ronaldo;Luka Modric;Neymar;C
+Qual jogador é conhecido como "Chicharito"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Javier Hernández;D
+Qual país sediou a Copa do Mundo de 1994?;Estados Unidos;Itália;Espanha;México;A
+Qual clube ganhou a Liga dos Campeões da UEFA na temporada 2016-2017?;Barcelona;Bayern de Munique;Real Madrid;Chelsea;C
+Quem foi o artilheiro da Copa do Mundo de 2010?;David Villa;Diego Forlán;Wesley Sneijder;Thomas Müller;B
+Qual é o nome completo do jogador argentino Lionel Messi?;Lionel Andrés Messi;Lionel Messi Pérez;Lionel Gabriel Messi;Lionel Messi Maradona;A
+Quem venceu a Bola de Ouro de 2017?;Lionel Messi;Cristiano Ronaldo;Luka Modric;Neymar;C
+Qual clube foi o campeão da Bundesliga na temporada 2020-2021?;Borussia Dortmund;RB Leipzig;Bayer Leverkusen;Bayern de Munique;D
+Quem é conhecido como "Dínamo"?;Lionel Messi;Diego Maradona;Gabriel Batistuta;Romário;B
+Qual é a seleção nacional com mais vice-campeonatos na Copa do Mundo?;Argentina;Brasil;Itália;Alemanha;D
+Em que país nasceu o jogador Luis Suárez?;Argentina;Uruguai;Espanha;Portugal;B
+Qual é o nome do estádio do Paris Saint-Germain?;Parc des Princes;Estádio Monumental;Allianz Arena;Estádio Olímpico;A
+Quem marcou o gol mais rápido na história da Serie A italiana?;Paolo Maldini;Alessandro Del Piero;Christian Vieri;Hernán Crespo;A
+Quem é o técnico da seleção portuguesa de futebol?;Fernando Santos;Pep Guardiola;Jurgen Klopp;Diego Simeone;A
+Qual foi o país-sede da Copa do Mundo de 2006?;Alemanha;África do Sul;França;Rússia;A
+Quem é o maior artilheiro da história da seleção uruguaia?;Diego Forlán;Luis Suárez;Edinson Cavani;Enzo Francescoli;B
+Qual jogador é conhecido como "Zizou"?;Zinedine Zidane;Ronaldo Nazário;Thierry Henry;Miroslav Klose;A
+Qual é o nome do estádio do Liverpool?;Old Trafford;Anfield;Santiago Bernabéu;Etihad Stadium;B
+Quem venceu a Bola de Ouro de 2016?;Lionel Messi;Cristiano Ronaldo;Luka Modric;Neymar;B
+Qual jogador é conhecido como "El Tigre"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Radamel Falcao;D
+Qual foi o primeiro país a sediar duas vezes a Copa do Mundo?;Alemanha;Brasil;Itália;França;C
+Quem ganhou a Copa América de 2019?;Argentina;Brasil;Uruguai;Chile;B
+Qual é o nome do estádio do Bayern de Munique?;Allianz Arena;Estádio Olímpico;Parc des Princes;Estádio Monumental;A
+Quem marcou o gol mais rápido na história da La Liga espanhola?;Ronaldinho Gaúcho;Ronaldo Nazário;Gareth Bale;David Villa;C
+Quem é o técnico da seleção francesa de futebol?;Didier Deschamps;Pep Guardiola;Jurgen Klopp;Diego Simeone;A
+Qual foi o país-sede da Copa do Mundo de 2018?;Rússia;África do Sul;Brasil;Alemanha;A
+Quem é o maior artilheiro da história da seleção espanhola?;David Villa;Fernando Torres;Raúl González;Iker Casillas;C
+Qual jogador é conhecido como "Ney"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Neymar;D
+Qual país sediou a Copa do Mundo de 1982?;Espanha;Alemanha;Argentina;Itália;A
+Quem ganhou a Copa América de 2021?;Argentina;Brasil;Uruguai;Chile;A
+Qual é o nome do estádio do Manchester City?;Etihad Stadium;Santiago Bernabéu;Anfield;Old Trafford;A
+Quem venceu a Bola de Ouro de 2015?;Lionel Messi;Cristiano Ronaldo;Luka Modric;Neymar;A
+Qual jogador é conhecido como "Chucky"?;Luis Suárez;Edinson Cavani;Sergio Agüero;Hirving Lozano;D
+Qual foi o país-sede da Copa do Mundo de 1970?;México;Estados Unidos;Itália;Espanha;A
+Quem é o maior artilheiro da história da seleção inglesa?;Wayne Rooney;Bobby Charlton;Harry Kane;Michael Owen;A
+Qual jogador é conhecido como "El Niño"?;Luis Suárez;Edinson Cavani;Fernando Torres;Sergio Agüero;C
+Qual país sediou a Copa do Mundo de 1958?;Suécia;Brasil;Alemanha;França;A
+Quem é o técnico da seleção alemã de futebol?;Joachim Löw;Pep Guardiola;Jurgen Klopp;Diego Simeone;A
+Qual jogador é conhecido como "CR7"?;Lionel Messi;Cristiano Ronaldo;Luka Modric;Neymar;B
+Qual foi o país-sede da Copa do Mundo de 1930?;Brasil;Uruguai;Argentina;Itália;B
+Quem ganhou a Eurocopa de 2020?;Portugal;Espanha;Itália;França;C
+Qual é o nome do estádio do Arsenal?;Old Trafford;Anfield;Emirates Stadium;Stamford Bridge;C
+Qual jogador foi o artilheiro da Copa do Mundo de 2018 na Rússia?;Lionel Messi;Cristiano Ronaldo;Kylian Mbappé;Neymar;C
+Qual seleção venceu a Copa do Mundo de 2010 na África do Sul?;Espanha;Brasil;Alemanha;Argentina;A
+Qual técnico levou o Brasil ao pentacampeonato mundial em 2002?;Luiz Felipe Scolari;Tite;Carlos Alberto Parreira;Dunga;C
+Qual jogador é conhecido como "O Fenômeno"?;Ronaldinho Gaúcho;Zinedine Zidane;Ronaldo Nazário;Andrés Iniesta;C
+Qual equipe é popularmente chamada de "La Vecchia Signora"?;AC Milan;Juventus;AS Roma;Inter de Milão;B
+Em que país nasceu o jogador Lionel Messi?;Brasil;Argentina;Portugal;Espanha;B
+Qual foi o primeiro clube da carreira de Cristiano Ronaldo?;Manchester United;Real Madrid;Sporting CP;Juventus;C
+Qual jogador recebeu o prêmio de Melhor do Mundo da FIFA em 2019?;Virgil van Dijk;Lionel Messi;Cristiano Ronaldo;Kylian Mbappé;B
+Qual clube ganhou a Liga dos Campeões da UEFA em 2020?;Bayern de Munique;Real Madrid;Liverpool;Paris Saint-Germain;A
+Qual foi o país anfitrião da Copa do Mundo de 2014?;Alemanha;Brasil;Rússia;África do Sul;B
+Qual técnico conquistou a tríplice coroa com o Barcelona na temporada 2008-2009?;Pep Guardiola;José Mourinho;Diego Simeone;Carlo Ancelotti;A
+Qual jogador brasileiro foi apelidado de "O Mago"?;Kaká;Ronaldinho Gaúcho;Rivaldo;Zico;A
+Qual país sediou a primeira Copa do Mundo da FIFA em 1930?;Itália;Uruguai;França;Inglaterra;B
+Qual clube conquistou a UEFA Europa League na temporada 2020-2021?;Manchester United;Arsenal;Sevilla;Tottenham Hotspur;C
+Quem foi o técnico da Seleção Brasileira na conquista do ouro olímpico em futebol masculino nos Jogos Olímpicos de 2016 no Rio de Janeiro?;Tite;Mano Menezes;Dunga;Rogerio Micale;D
+Qual jogador é conhecido como "Kun"?;Sergio Agüero;Lionel Messi;Neymar;Robert Lewandowski;A
+Qual país venceu a Copa do Mundo de 1998?;França;Brasil;Itália;Alemanha;A
+Em qual clube inglês o jogador Thierry Henry se destacou?;Arsenal;Manchester United;Chelsea;Liverpool;A
+Qual foi o país vencedor da Eurocopa 2020?;Itália;Inglaterra;França;Alemanha;A
+Qual jogador argentino é conhecido como "El Apache"?;Sergio Agüero;Javier Mascherano;Carlos Tevez;Gonzalo Higuaín;C
